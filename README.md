@@ -6,8 +6,8 @@
 - ⚙️ Github em andamento
 - 👩🏻 ela/dela
 
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilaa-teixeiraa&show_icons=true&theme=dracula)
-![Camila's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camilaa-teixeiraa&layout=compact&langs_count=16&theme=dracula)
+![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilamta275&show_icons=true&theme=solarized-light)
+![Camila's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camilamta275&layout=compact&langs_count=16&theme=solarized-light)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,6 @@
   <img align="center" alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Camila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Camila-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Camila-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/829031496622407742/1087099647044091995/download20230300164406.png">
 </div>
 
 ##
@@ -35,5 +34,4 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
