@@ -6,8 +6,8 @@
 - ⚙️ Github em andamento
 - 👩🏻 ela/dela
 
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilamta275&show_icons=true&theme=solarized-light)
-![Camila's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camilamta275&layout=compact&langs_count=16&theme=solarized-light)
+![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilamta275&show_icons=true&theme=prussian)
+![Camila's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camilamta275&layout=compact&langs_count=16&theme=prussian)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
