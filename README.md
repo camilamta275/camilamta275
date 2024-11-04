@@ -1,7 +1,6 @@
 ### Oii, eu sou Camila 🖖
 
-- 📚 Técnico: Unity, C#, HTML, CSS, Java e React
-- 🛸 Programação de Jogos Digitais 3/3 ✅
+- 🛸 Técnico em Programação de Jogos Digitais 3/3 ✅
 - 💻 Análise e Desenvolvimento de Sistemas 1/5
 - ⚙️ Github em andamento
 - 👩🏻 ela/dela
