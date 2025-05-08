@@ -1,7 +1,7 @@
 ### Oii, eu sou Camila 🖖
 
 - 🛸 Técnico em Programação de Jogos Digitais 3/3 ✅
-- 💻 Análise e Desenvolvimento de Sistemas 1/5
+- 💻 Análise e Desenvolvimento de Sistemas 2/5
 - ⚙️ Github em andamento
 - 👩🏻 ela/dela
 
